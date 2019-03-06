@@ -1,2 +1,2 @@
 # PyKeylogger
-a simple keylogger script written in Python x2.7
+a simple #keylogger, scripted in Python x2.7
