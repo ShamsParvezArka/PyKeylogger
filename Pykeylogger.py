@@ -1,5 +1,5 @@
-# this script is written by SHAMS PARVEZ ARKA
-# KEY-LOGGER
+# scripted by SHAMS PARVEZ ARKA
+# PyKeylogger
 
 
 from pynput.keyboard import Key, Listener
