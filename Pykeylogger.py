@@ -1,4 +1,4 @@
-# this script is written by SHAMS PARVEZ ARKA
+# this script is written by Venom-7
 # KEY-LOGGER
 
 
