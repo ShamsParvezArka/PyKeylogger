@@ -3,3 +3,6 @@
 
 # Requirements
     pynput
+# Usages 
+    $ pip install pynput
+    $ python PyKeylogger.py
